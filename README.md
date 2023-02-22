@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katherine Tsai, welcome to my GitHub!</h1>
 <h3 align="center">A passionate software developer with 2 cats</h3>
 <div align="center">
-<img src="https://media.tenor.com/HKUc3og5OxAAAAAC/gato-cat.gif" width="457" height="480" />
+<img src="https://media.tenor.com/HKUc3og5OxAAAAAC/gato-cat.gif" width="350" />
 </div>
 
 - 🌱 I’m currently learning **AWS**
