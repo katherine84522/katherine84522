@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/HKUc3og5OxAAAAAC/gato-cat.gif" width="350" />
 </div>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **NodeJs and Vue**
 
 - 💬 Ask me about **React, Ruby on Rails, Web Scraping**
 
